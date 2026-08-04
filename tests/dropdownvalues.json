@@ -1,0 +1,15 @@
+{
+
+ "dropdownValues":[
+
+"Emp.id",
+"Emp.FirstName",
+"Emp.LastName",
+"Emp.MiddleName",
+"JobTitle",
+"Employment status",
+"Sub-divison",
+"Supervisor"
+ ]
+
+}
