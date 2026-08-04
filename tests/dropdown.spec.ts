@@ -43,6 +43,9 @@ await expect (page.locator("xpath=/html/body/div[3]/ul/li[1]")).toHaveText("Welc
     let  dropdownsize: number   = await dropdownvalues.count();
 
     console.log ("dropdownsize:" +dropdownsize);
+    console.log("bgkjadfgkjsdf");
+    console.log("bgk");
+
      
     for (let i=0;i<dropdownsize;i++){
 
